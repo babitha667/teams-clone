@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teams Clone</string>
+    <string name="agora_app_id">81b3455d416a44cc8e2c6f544393a5a1</string>
+    <string name="agora_access_token"></string>
+</resources>

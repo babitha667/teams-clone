@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530634307072",
+    "project_id": "teams-clone-20307",
+    "storage_bucket": "teams-clone-20307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530634307072:android:2f2d6e9c3942126b634ae5",
+        "android_client_info": {
+          "package_name": "com.example.teamsclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530634307072-9a29v3hpu8skmk1ac128qi4luckhqmuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV4fS2K7qE157sqQr1RNOnblLg287c31Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530634307072-9a29v3hpu8skmk1ac128qi4luckhqmuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
