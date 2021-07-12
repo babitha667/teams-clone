@@ -85,6 +85,10 @@ public class CreateRoomActivity extends AppCompatActivity {
             title- Optional title that will be displayed in the chooser.
         Intent.EXTRA_TEXT: A constant CharSequence that is associated with the Intent, used with ACTION_SEND to supply the literal data to be sent.
         */
+        if(roomID.getText().length()==0){
+            return;
+        }
+
         Intent sendIntent = new Intent();
         sendIntent.setAction(Intent.ACTION_SEND);
         sendIntent.putExtra(Intent.EXTRA_TEXT,(roomID.getText().toString()+"\nPassword: "+roomPassword.getText().toString()));
